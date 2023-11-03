@@ -153,3 +153,81 @@ NOTA: Per disposar d'un determinat idioma, primer cal instal.lar-lo des de Admin
 
 e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. Això es pot fer anant a l'opció Administració del lloc > Seguretat >Normatives del lloc.
 
+![paVosfree](/Imagenes/7.png)
+
+2. Crea els següents cursos: un curs anomenat A (sense categoria) que estigui format per 3 temes i un altre anomenat B (també sense categoria) que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc->Gestiona cursos i categories o també des del quadre Navegació anant a Cursos > Afegeix curs
+
+![paVosfree](/Imagenes/8.png)
+![paVosfree](/Imagenes/9.png)
+
+3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
+NOTA: Aquestes possibilitats no les estudiarem a fons perquè són una tasca més pròpia del professor que no pas de l'administrador del Moodle, però sempre va bé tenir-ne alguna idea.
+
+![paVosfree](/Imagenes/10.png)
+
+4. Creació d’usuaris i alumnes.
+a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual. Això es pot fer des de Administració del lloc > Usuaris > Comptes > Afegeix un usuari
+
+![paVosfree](/Imagenes/11.png)
+
+b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
+NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
+
+![paVosfree](/Imagenes/11.png)
+
+c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
+
+![paVosfree](/Imagenes/12.png)
+![paVosfree](/Imagenes/13.png)
+
+5. Ara matricula aquests usuaris als diferents cursos.
+a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). 
+
+![paVosfree](/Imagenes/14.png)
+
+**He borrado todos los metodos de matriculacion**
+
+D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne).
+Tot això ho pots fer des de Administració del curs > Ususaris > Mètodes d'inscripció. 
+Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació
+
+
+**GRUPO B (SIN METODO DE MATRICULACION)**
+
+![paVosfree](/Imagenes/15.png)
+![paVosfree](/Imagenes/16.png)
+![paVosfree](/Imagenes/17.png)
+
+**Grupo A (El Profesor Matricula)**
+
+![paVosfree](/Imagenes/18.png)
+![paVosfree](/Imagenes/19.png)
+
+b) Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a Administració del curs > Usuaris inscrits > Inscriure.
+
+![paVosfree](/Imagenes/20.png)
+
+c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
+
+![paVosfree](/Imagenes/21.png)
+![paVosfree](/Imagenes/22.png)
+
+6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. Això ho pots fer primer anant a Administració del lloc > Connectors > Instal·lar complement i després a Administració del lloc > Aparença > Temes > Selector de temes 
+Sempre pots fer servir l'enllaç Canvi de rol del menú de la dreta per observar com es veuria el lloc sent alumne, professor, etc.
+
+![paVosfree](/Imagenes/23.png)
+
+7. Assigna un professor i matricula alumnes al curs A
+
+![paVosfree](/Imagenes/24.png)
+
+8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
+
+![paVosfree](/Imagenes/25.png)
+![paVosfree](/Imagenes/26.png)
+
+9. Entra amb un alumne i comprova que pots lliurar la tasca.
+
+![paVosfree](/Imagenes/27.png)
+
+
