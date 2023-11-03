@@ -230,4 +230,26 @@ Sempre pots fer servir l'enllaç Canvi de rol del menú de la dreta per observar
 
 ![paVosfree](/Imagenes/27.png)
 
+![paVosfree](/Imagenes/28.png)
 
+![paVosfree](/Imagenes/29.png)
+
+![paVosfree](/Imagenes/30.png)
+
+![paVosfree](/Imagenes/31.png)
+
+![paVosfree](/Imagenes/32.png)
+
+![paVosfree](/Imagenes/33.png)
+
+![paVosfree](/Imagenes/34.png)
+
+![paVosfree](/Imagenes/35.png)
+
+![paVosfree](/Imagenes/36.png)
+
+![paVosfree](/Imagenes/37.png)
+
+![paVosfree](/Imagenes/38.png)
+
+![paVosfree](/Imagenes/39.png)
